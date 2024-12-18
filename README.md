@@ -11,27 +11,26 @@
 - 😄 Portfolio: https://rajamoushmi.github.io/portfolio/
 <p align="left">
   <!-- CodeChef -->
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png" alt="CodeChef" width="40" height="40"/>
     <img src="https://rajamoushmi.github.io/portfolio/assets/images/c1.jpg" alt="CodeChef" width="40" height="40"/>
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/raja-moushmi-166520255/" target="_blank">
+  <a href="https://www.linkedin.com/in/raja-moushmi-166520255/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/rajamoushmi/" target="_blank">
+  <a href="https://leetcode.com/u/rajamoushmi/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
   
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
   </a>
 
   <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/rajamoushmi/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/rajamoushmi/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
