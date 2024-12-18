@@ -9,5 +9,39 @@
 - 💬 About me: To leverage my advanced problem-solving and analytical skills in a challenging technology internship role. Eager to contribute to high-impact projects and utilize my proficiency. Committed       to delivering exceptional results and gaining in-depth exposure to financial technology solutions while advancing my career in a leading global firm.
 - 📫 How to reach me: 2200030763cseh@gmail.com
 - 😄 Portfolio: https://rajamoushmi.github.io/portfolio/
+<p align="left">
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Codechef.com_logo.svg" alt="CodeChef" width="40" height="40"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+  
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+  </a>
+</p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raja-moushmi-166520255/)
+![JavaScript](https://img.shields.io/badge/JavaScript-44.81%25-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-39.10%25-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-15.54%25-blue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0.33%25-brown?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-0.22%25-blue?style=for-the-badge)
 
 
