@@ -11,7 +11,7 @@
 - 😄 Portfolio: https://rajamoushmi.github.io/portfolio/
 <p align="left">
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/d_rajamoushmi" target="_blank">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/images/logo.png" alt="CodeChef" width="40" height="40"/>
     <img src="https://rajamoushmi.github.io/portfolio/assets/images/c1.jpg" alt="CodeChef" width="40" height="40"/>
   </a>
   
