@@ -37,11 +37,6 @@
 </p>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/raja-moushmi-166520255/)
-![JavaScript](https://img.shields.io/badge/JavaScript-44.81%25-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-39.10%25-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-15.54%25-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-0.33%25-brown?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-0.22%25-blue?style=for-the-badge)
+
 
 
