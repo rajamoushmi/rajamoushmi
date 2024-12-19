@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello peeps! 👋
 
 
 
@@ -11,7 +11,7 @@
 - 😄 Portfolio: https://rajamoushmi.github.io/portfolio/
 <p align="left">
   <!-- CodeChef -->
-    <img src="https://rajamoushmi.github.io/portfolio/assets/images/c1.jpg" alt="CodeChef" width="40" height="40"/>
+    <img src="https://i.postimg.cc/xCjH1565/codechef-icon-380x512-r1v87w22.png" alt="CodeChef" width="40" height="40"/>
   </a>
   
   <!-- LinkedIn -->
