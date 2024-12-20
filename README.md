@@ -23,14 +23,14 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/rajamoushmi/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>  
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
-  </a>
+  </a> 
   <!-- GeeksforGeeks -->
   <a href="https://www.geeksforgeeks.org/user/rajamoushmi/" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="40" height="40"/>
+    <img src="https://i.postimg.cc/c1XBTsMC/geeksforgeeks-logo-icon-248241.png" alt="GeeksforGeeks" width="55" height="50"/>
+  </a>
+   <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/" target="blank">
+    <img src="https://i.postimg.cc/VLZ4sYdp/hackerrank-icon-465x512-7x2nqr1n.png" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
 
